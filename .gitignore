@@ -1,0 +1,14 @@
+__init__.py
+.idea
+__pychache__
+captcha
+captcha_images
+captcha_images_reprocessed
+dataset
+models
+PyCAPTCHA-master
+real_captcha_dataset
+solving_captchas_code_examples
+stanford_dataset
+stanford_models
+venv
