@@ -1,6 +1,6 @@
 __init__.py
 .idea
-__pychache__
+__pycache__
 captcha
 captcha_images
 captcha_images_reprocessed
